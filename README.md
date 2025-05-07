@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Merhaba, ben Harun
 
-<!--
-**harunozkan1/harunozkan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Zonguldak Bülent Ecevit Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Yazılım geliştirme, mobil uygulama ve yapay zeka alanlarına tutkuyla bağlıyım.
 
-Here are some ideas to get you started:
+🚀 Şu anda Bitirme Projesi olarak üzerinde aktif çalıştığım proje:
+[📱 Yapay Zeka Destekli Diyet Uygulaması](https://github.com/harunozkan1/YapayZekaDiyetApp)
+*(Kullanıcı verilerine dayalı kişiselleştirilmiş diyet planları oluşturan ve öğün fotoğraflarını analiz eden Android uygulaması)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Öne çıkan tamamlanmış projelerimden biri:
+[📷 Fotoğraf Paylaşım Uygulaması](https://github.com/harunozkan1/FotografPaylasma)
+*(Kullanıcıların fotoğraf paylaşıp etkileşime geçebildiği Kotlin tabanlı basit bir sosyal medya uygulaması)*
+
+🛠️ Yetkinliklerim ve İlgilendiğim Alanlar:
+- **Programlama Dilleri:** Kotlin, Python, Java, C
+- **Mobil Geliştirme:** Android (Kotlin, Android Studio), Firebase Entegrasyonu
+- **Yapay Zeka & ML:** TensorFlow, Keras (Temel Proje Deneyimi), OpenAI API'leri (GPT-4, GPT-4o Vision)
+- **Backend:** Python (Flask), RESTful API Kullanımı
+- **Veritabanı:** Firebase (Firestore, Realtime Database, Storage), PostgreSQL
+- **Araçlar:** Git, Android Studio
+- **Tasarım:** UI/UX Prensipleri (Temel düzeyde)
+- **Bulut Servisleri:** Firebase
+
+📫 Bana ulaşmak için:
+[LinkedIn](${linkedin_link}) | [E-posta](mailto:mrharunozkan@gmail.com) | [GitHub](https://github.com/harunozkan1)
