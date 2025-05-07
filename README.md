@@ -3,7 +3,7 @@
 💻 Zonguldak Bülent Ecevit Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Yazılım geliştirme, mobil uygulama ve yapay zeka alanlarına tutkuyla bağlıyım.
 
 🚀 Şu anda Bitirme Projesi olarak üzerinde aktif çalıştığım proje:
-[📱 Yapay Zeka Destekli Diyet Uygulaması](https://github.com/harunozkan1/YapayZekaDiyetApp)
+[📱 Yapay Zeka Destekli Diyet Uygulaması]
 *(Kullanıcı verilerine dayalı kişiselleştirilmiş diyet planları oluşturan ve öğün fotoğraflarını analiz eden Android uygulaması)*
 
 ✨ Öne çıkan tamamlanmış projelerimden biri:
